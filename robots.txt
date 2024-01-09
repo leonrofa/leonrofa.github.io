@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leonrofa.github.io/sitemap.xml
+Sitemap: https://rofagha.xyz/sitemap.xml
