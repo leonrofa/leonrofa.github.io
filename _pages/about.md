@@ -1,7 +1,7 @@
 ---
 layout: about
 title: English
-permalink: /
+permalink: /english
 subtitle:
 
 profile:
