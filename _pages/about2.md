@@ -1,7 +1,9 @@
 ---
 layout: about
 title: Français
-permalink: /french/
+permalink: /french
+nav: true
+nav_rank: 2
 subtitle:
 
 profile:
@@ -16,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Bonjour ! Je suis Leon. J'ai obtenu un MSc Statistics and Data Science avec une spécialisation en statistiques théoriques de la KU Leuven en septembre 2023. Mon e-mail est <a href='#'>[prénom].[nom]@[service d'email de google].com</a>. Vous pouvez trouver mon profil Linkedin [ici](https://linkedin.com/in/leonrofagha/).
+Bonjour ! Je suis Leon. J'ai obtenu un MSc Statistics and Data Science avec une spécialisation en statistiques théoriques de la KU Leuven en septembre 2023. Mon e-mail est <a href='#'>[prénom].[nom]@gmail.com</a>. Vous pouvez trouver mon profil Linkedin [ici](https://linkedin.com/in/leonrofagha/).
 
 Je donne des cours particuliers en probabilités et statistiques au niveau bachelier. J'aide aussi régulièrement des étudiants avec leurs analyses statistiques ainsi que leur interprétation. Je mets l'accent sur la compréhension et je fais appel à l'intuition autant que possible. 
 

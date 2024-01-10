@@ -2,6 +2,8 @@
 layout: about
 title: English
 permalink: /
+nav: true
+nav_rank: 1
 subtitle:
 
 profile:

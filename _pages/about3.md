@@ -1,7 +1,9 @@
 ---
 layout: about
 title: Deutsch
-permalink: /german/
+permalink: /german
+nav: true
+nav_rank: 3
 subtitle:
 
 profile:
@@ -16,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! Ich bin Leon. Ich habe im September 2023 einen MSc Statistics and Data Science mit einem Schwerpunkt in theoretischer Statistik an der KU Leuven abgeschlossen. Meine E-Mail lautet <a href='#'>[vorname].[nachname]@[googles e-mail-dienst].com</a>. Mein Linkedin-Profil finden Sie [hier]((https://linkedin.com/in/leonrofagha/)).
+Hi! Ich bin Leon. Ich habe im September 2023 einen MSc Statistics and Data Science mit einem Schwerpunkt in theoretischer Statistik an der KU Leuven abgeschlossen. Meine E-Mail lautet <a href='#'>[vorname].[nachname]@gmail.com</a>. Mein Linkedin-Profil finden Sie [hier]((https://linkedin.com/in/leonrofagha/)).
 
 Ich biete Nachhilfeunterricht für Bachelor-Studierende in Wahrscheinlichkeitsrechnung und Statistik an. Ich unterstütze auch regelmäßig Studenten bei statistischen Analysen und deren Interpretation. Ich konzentriere mich auf das Verstehen und vermittle Intuition, wann immer es möglich ist. 
 
