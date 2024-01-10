@@ -1,9 +1,7 @@
 ---
 layout: about
 title: English
-permalink: /english/
-nav: true
-nav_rank: 1
+permalink: /
 subtitle:
 
 profile:
