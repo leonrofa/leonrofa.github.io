@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Français
-permalink: /
+permalink: /french
 subtitle:
 
 profile:

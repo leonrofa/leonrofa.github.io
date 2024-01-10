@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Deutsch
-permalink: /
+permalink: /german
 subtitle:
 
 profile:
