@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Deutsch
-permalink: /german/
+permalink: /german
 nav: true
 nav_rank: 3
 
