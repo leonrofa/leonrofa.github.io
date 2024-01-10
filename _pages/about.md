@@ -1,7 +1,7 @@
 ---
 layout: about
 title: English
-permalink: /english
+permalink: /
 nav: true
 nav_rank: 1
 sitetitle: true
