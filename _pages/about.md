@@ -4,7 +4,7 @@ title: English
 permalink: /
 nav: true
 nav_rank: 1
-sitetitle: true
+# sitetitle: true
 
 profile:
   align: right
