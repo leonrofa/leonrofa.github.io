@@ -2,7 +2,9 @@
 layout: about
 title: English
 permalink: /
-subtitle:
+nav: true
+nav_rank: 1
+sitetitle: true
 
 profile:
   align: right

@@ -4,7 +4,6 @@ title: Français
 permalink: /french/
 nav: true
 nav_rank: 2
-subtitle:
 
 profile:
   align: right

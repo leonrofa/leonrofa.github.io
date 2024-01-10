@@ -4,7 +4,6 @@ title: Deutsch
 permalink: /german/
 nav: true
 nav_rank: 3
-subtitle:
 
 profile:
   align: right
