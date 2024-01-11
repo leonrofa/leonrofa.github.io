@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey! Ik ben Leon. Ik behaalde een MSc Statistics and Data Science met een concentratie in theoretische statistiek aan de KU Leuven in september 2023. Mijn e-mailadres is <a href='#'>[voornaam].[naam]@gmail.com</a>. U kunt mijn Linkedin profiel [hier](https://linkedin.com/in/leonrofagha/) vinden.
+Hey! Ik ben Leon. Ik behaalde een MSc Statistics and Data Science (cum laude) met een concentratie in theoretische statistiek aan de KU Leuven in september 2023. Mijn e-mailadres is <a href='#'>[voornaam].[naam]@gmail.com</a>. U kunt mijn Linkedin profiel [hier](https://linkedin.com/in/leonrofagha/) vinden.
 
-Ik geef bijles voor bachelorcursussen in kansrekening en statistiek. Ik help studenten ook regelmatig met statistische analyses en de interpretatie daarvan. Ik richt me op begrip en geef waar mogelijk intuïtie. 
+Ik geef bijles voor bachelorcursussen in kansrekening en statistiek in Brussel. Ik help studenten ook regelmatig met statistische analyses en de interpretatie daarvan. Ik richt me op begrip en geef waar mogelijk intuïtie. 
 
 Wiskunde is niet mijn eerste natuur en ik kan me daarom goed inleven in het feit dat deze onderwerpen soms overweldigend kunnen lijken :-)
 
