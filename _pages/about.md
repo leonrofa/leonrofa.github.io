@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Leon. I received an MSc Statistics and Data Science (cum laude) with a concentration in theoretical statistics from KU Leuven in September 2023. My email is <a href='#'>[first name].[last name]@gmail.com</a>. You can find [my Linkedin profile here](https://linkedin.com/in/leonrofagha/). 
+Hi! I'm Leon. I received an MSc Statistics and Data Science (cum laude) with a concentration in theoretical statistics from KU Leuven in September 2023. My email is [leon.rofagha@gmail.com](mailto:leon.rofagha@gmail.com). You can find [my Linkedin profile here](https://linkedin.com/in/leonrofagha/). 
 
 I provide tutoring for bachelor's-level courses in probability and statistics in Brussels. I also regularly assist students with statistical analyses and their interpretation. I focus on understanding and provide intuition whenever possible. 
 
