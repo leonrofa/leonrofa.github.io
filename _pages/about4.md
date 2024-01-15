@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hey! Ik ben Leon. Ik behaalde een MSc Statistics and Data Science (cum laude) met een concentratie in theoretische statistiek aan de KU Leuven in september 2023. Mijn e-mailadres is [leon.rofagha@gmail.com](mailto:leon.rofagha@gmail.com). U kunt [mijn Linkedin profiel hier vinden](https://linkedin.com/in/leonrofagha/).
 
-Ik geef bijles voor bachelorcursussen in kansrekening en statistiek in Brussel. Ik help studenten ook regelmatig met statistische analyses en de interpretatie daarvan. Ik richt me op begrip en geef waar mogelijk intuïtie. 
+Ik geef bijles voor bachelorcursussen in kansrekening en statistiek in Brussel. Ik help studenten ook regelmatig met statistische analyses (in R of Python) en de interpretatie daarvan. Ik richt me op begrip en geef waar mogelijk intuïtie. 
 
 Wiskunde is niet mijn eerste natuur en ik kan me daarom goed inleven in het feit dat deze onderwerpen soms overweldigend kunnen lijken :-)
 
